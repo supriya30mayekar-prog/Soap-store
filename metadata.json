@@ -1,0 +1,8 @@
+{
+  "name": "Remix soapy - Artisanal Botanical Soap Store",
+  "description": "Simple and elegant artisanal cold-processed soap storefront with natural botanical bars, scent finder, custom bundles, and quick checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
